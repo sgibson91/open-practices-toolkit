@@ -15,6 +15,7 @@ from ghapi.page import paged
 # See https://github.com/2i2c-org/team-compass/blob/main/scripts/post-team-sync.py
 # for example.
 
+# TODO: Also copy across any/all comments made on issues
 
 def get_labels_for_repo(
     api: GhApi,
