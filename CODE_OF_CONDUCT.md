@@ -1,3 +1,8 @@
+> # ℹ️ This Code of Conduct will soon be changing...
+>
+> This Code of Conduct is currently under review, so please check back regularly for updates!
+> If you'd like to be involved in the review and update process, please head on over to our [discussion issue](https://github.com/sgibson91/open-practices-toolkit/issues/28).
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
