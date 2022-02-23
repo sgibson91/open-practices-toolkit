@@ -1,6 +1,6 @@
-# Open Source Service Area
-
 [![Join the chat at https://gitter.im/open-practices-toolkit/community](https://badges.gitter.im/open-practices-toolkit/community.svg)](https://gitter.im/open-practices-toolkit/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# Open Source Service Area
 
 **_A service area sharing the knowledge and skills to participate in or grow an open project with the Turing research community._**
 
