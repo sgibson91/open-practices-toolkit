@@ -1,3 +1,8 @@
+> # ℹ️ These Guidelines will be changing soon...
+>
+> These Guidelines currently under review, so please check back regularly for updates!
+> If you'd like to be involved in the review and update process, please head on over to our [discussion issue](https://github.com/sgibson91/open-practices-toolkit/issues/31).
+
 # Contributing Guidelines
 
 **_A service area sharing the knowledge and skills to participate in or grow an open project with the Turing research community._**
