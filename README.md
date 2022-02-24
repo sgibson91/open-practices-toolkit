@@ -1,4 +1,18 @@
+# :wave: Hello!
+
+Welcome to the Open Practices Toolkit repository!
+
+:construction: We are currently undergoing a lot of refactoring :construction:
+
+And as such this README is a little out of date :confused:
+
+Please checkout our [Welcome Issue](https://github.com/sgibson91/open-practices-toolkit/issues/30) which is acting as our interim README
+
+In the meantime, you can always chat with us in our gitter room :point_down:
+
 [![Join the chat at https://gitter.im/open-practices-toolkit/community](https://badges.gitter.im/open-practices-toolkit/community.svg)](https://gitter.im/open-practices-toolkit/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+---
 
 # Open Source Service Area
 
