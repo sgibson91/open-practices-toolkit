@@ -12,6 +12,7 @@ This document outlines expectations and responsibilities of project members and 
 | Name         | Role                                        | % working on the project | Time period allocated to project | Preferred method(s) of communication  |
 | :----------- | :------------------------------------------ | :----------------------- | :------------------------------- | :------------------------------------ |
 | Sarah Gibson | Service Area Lead / Open Developer Advocate | 40%                      | Feb 2021 - May 2021              | Slack: `@Sarah`, GitHub: `@sgibson91` |
+| Meag Doherty | Project Mentor | 5%                      | Spring 2021 and March 2022 - present              | Slack: `@meagdoherty`, GitHub: `@meagdoh` |
 
 ## Communication
 
